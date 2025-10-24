@@ -26,7 +26,7 @@ I'm **Piyush Nanda**, a passionate **Cybersecurity Expert** dedicated to protect
 
 ## 🔗 Connect with Me
 - 🌐 **GitHub:** [github.com/PiyushNanda](https://github.com/piyush0130)
-- 💼 **LinkedIn:** [linkedin.com/in/PiyushNanda](https://linkedin.com/in/PiyushNanda)
+- 💼 **LinkedIn:** [linkedin.com/in/PiyushNanda]([https://linkedin.com/in/PiyushNanda](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 - 📧 **Email:** nandapiyush9@gmail.com
 - 🌍 **Portfolio:** [comming]
 
